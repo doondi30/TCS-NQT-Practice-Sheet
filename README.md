@@ -18,20 +18,11 @@ Ideal for aspiring coders aiming to:
 
 ## Study Schedule
 
-| Week | Day | Problems |
-|------|-----|---------|
-| Week 1 | Day 1 | Problem 1 - Problem 6 |
-| Week 1 | Day 2 | Problem 7 - Problem 12 |
-| Week 1 | Day 3 | Problem 13 - Problem 18 |
-| Week 1 | Day 4 | Problem 19 - Problem 24 |
-| Week 1 | Day 5 | Problem 25 - Problem 30 |
-| Week 2 | Day 6 | Problem 31 - Problem 36 |
-| Week 2 | Day 7 | Problem 37 - Problem 42 |
-| Week 2 | Day 8 | Problem 43 - Problem 48 |
-| Week 2 | Day 9 | Problem 49 - Problem 54 |
-| Week 2 | Day 10 | Problem 55 - Problem 60 |
-| Week 3 | Day 11 | Problem 61 - Problem 66 |
-| Week 3 | Day 12 | Problem 67 - Problem 72 |
-| Week 3 | Day 13 | Problem 73 - Problem 78 |
-| Week 3 | Day 14 | Problem 79 - Problem 84 |
-| Week 3 | Day 15 | Problem 85 - Problem 90 |
+| ✅/⬜ | Topic                                   |
+|------|-----------------------------------------|
+| ✅   | [1. Problems on Arrays](https://github.com/doondigangadhar30/TCS-NQT-Striver-Sheet/tree/main/Problems%20on%20Arrays)           |
+| ⬜   | [2. Problems on Numbers](https://github.com/doondigangadhar30/TCS-NQT-Striver-Sheet/tree/main/Problems%20on%20Numbers)         |
+| ⬜   | [3. Problems on Number System]() |
+| ⬜   | [4. Problems on Sorting]()        |
+| ⬜   | [5. Problems on Strings]()        |
+
