@@ -1,14 +1,9 @@
 # TCS NQT Striver Sheet Study Plan
 
-This repository contains a structured **3-week study plan** to tackle the **TCS NQT Striver Sheet**, a popular collection of 90 coding problems designed to prepare for the **TCS National Qualifier Test (NQT)**. 
+In this Repository I have solved all the question of the Striver's TCS NQT Sheet. Striver is one of the reowned Coder and Programming Influencer has most curated Sheet for cracking coding round of TCS NQT and other similar examinations. Solving these question will help you to concentrate on basic concepts and building logic. Hope you enjoy your coding journey.
 
-### Study Structure
-- **Duration:** 3 Weeks
-- **Total Problems:** 90
-- **Study Days per Week:** 5 Days
-- **Problems per Day:** 6 Problems
+Tips: First give it a try yourself ...then head to the solutions.
 
-The plan divides the problems equally across **3 weeks**, ensuring a balanced approach to mastering essential coding concepts. The schedule is presented in a **clear, tabular format** to help candidates systematically prepare for the exam. 
 
 ### Target Audience
 Ideal for aspiring coders aiming to:
