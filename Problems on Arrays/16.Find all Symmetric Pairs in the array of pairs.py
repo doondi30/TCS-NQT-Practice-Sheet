@@ -15,7 +15,7 @@
 l=[[1,2],[2,1],[3,4],[4,5],[5,4]]
 li=len(l)
 for i in range(li):
-    for j in range(i,li):
+    for j in range(i+1,li):
         if ( (l[i][0]==l[j][1]) and (l[i][1]==l[j][0]) ):
             print(f"({l[i][1]} {l[i][0]})",end=' ')
             break
