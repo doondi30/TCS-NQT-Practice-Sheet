@@ -25,14 +25,13 @@ for i in range(len(n)):
 print(m)
 
 #using builtin math.prod and bruteforce approach
-n = [4, 5, 3, 0, 1, 2]
+n = [1,2,-3,0,-4,-5]
 import math
 l=len(n)
 maxi=float("-inf")
 
 for i in range(l):
-    for j in range(i,l):
-        if i<=j:
-            k=math.prod(n[i:j+1])
+    for j in range(i+1,l):
+        k=math.prod(n[i:j+1])
         maxi=max(k,maxi)
 print(maxi)
