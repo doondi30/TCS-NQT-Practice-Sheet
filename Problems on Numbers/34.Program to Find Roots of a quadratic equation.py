@@ -32,3 +32,11 @@ else:
     real = -b / (2 * a)
     imag = ((-d)**0.5) / (2 * a)
     print("Roots are complex:", f"{real}+i{imag}", ",", f"{real}-i{imag}")
+
+
+# Note:
+
+# Discriminant(D) = b^2 - 4a*c
+# If the discriminant is greater than 0, the roots are real and different.
+# If the discriminant is equal to 0, the roots are real and equal.
+# If the discriminant is less than 0, the roots are complex and different.
