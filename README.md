@@ -1,5 +1,6 @@
-# TCS NQT Striver Sheet Study Plan
+<img width="1280" height="720" alt="tcs nqt" src="https://github.com/user-attachments/assets/e7094200-25a8-4d5e-92b4-d19f09241742" />
 
+# TCS NQT Must Know Questions 
 In this Repository I have solved all the question of the Striver's TCS NQT Sheet. Striver is one of the reowned Coder and Programming Influencer has most curated Sheet for cracking coding round of TCS NQT and other similar examinations. Solving these question will help you to concentrate on basic concepts and building logic. Hope you enjoy your coding journey.
 
 Tips: First give it a try yourself ...then head to the solutions.
