@@ -19,6 +19,6 @@ Ideal for aspiring coders aiming to:
 | ✅   | [1. Problems on Arrays](https://github.com/doondi30/TCS-NQT-Practice-Sheet/tree/main/Problems%20on%20Arrays)           |
 | ✅   | [2. Problems on Numbers](https://github.com/doondi30/TCS-NQT-Practice-Sheet/tree/main/Problems%20on%20Numbers)         |
 | ✅  | [3. Problems on Number System](https://github.com/doondi30/TCS-NQT-Practice-Sheet/tree/main/Problems%20on%20NumberSystems) |
-| ⬜   | [4. Problems on Sorting]()        |
+| ✅  | [4. Problems on Sorting]()        |
 | ⬜   | [5. Problems on Strings]()        |
 
